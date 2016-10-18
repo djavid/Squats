@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Squats</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_start_recognising">Приседать!</string>
+    <string name="button_stop_recognising">Стоп</string>
+    <string name="squats_number">%1$d приседаний</string>
+    <string name="waiting_activity">Подождите&#8230;</string>
+    <string name="value_prediction_timer">распознавание начнется через %1$d</string>
+    <string name="button_reset_string">Сбросить</string>
+</resources>
